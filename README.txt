@@ -11,8 +11,6 @@ PROJECT ELEMENTS
 	
 	Documentation:
 	-	earthquakes_peru.kml
-	-	global_earthquake_data.xlsx
-	-	report.pdf
 ============================================================================
 SYSTEM REQUIREMENTS
 ----------------------------------------------------------------------------

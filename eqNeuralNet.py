@@ -1,5 +1,4 @@
-# COMP9417 - Machine Learning
-# Project by Boris Alzamora (z5011030)
+# Project by Boris Alzamora
 # Earthquakes Magnitude Prediction in Peru -
 # 	A comparison between Multilayer Neural Network and Decision tree classifiers
 
